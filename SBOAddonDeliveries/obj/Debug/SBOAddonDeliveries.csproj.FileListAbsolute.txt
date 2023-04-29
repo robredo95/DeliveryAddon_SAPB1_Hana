@@ -1,0 +1,11 @@
+c:\users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\bin\Debug\SBOAddonDeliveries.exe
+c:\users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\bin\Debug\SBOAddonDeliveries.pdb
+c:\users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\bin\Debug\SAPBusinessOneSDK.dll
+c:\users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\obj\Debug\SBOAddonDeliveries.csprojResolveAssemblyReference.cache
+c:\users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\obj\Debug\SBOAddonDeliveries.exe
+c:\users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\obj\Debug\SBOAddonDeliveries.pdb
+c:\users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\bin\Debug\SBOAddonDeliveries.exe.config
+c:\users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\bin\Debug\Resources\TIcon.bmp
+c:\users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\bin\Debug\Resources\TIcon.png
+C:\Users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\bin\Debug\SBOAddonDeliveries.Core.dll
+C:\Users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries\bin\Debug\SBOAddonDeliveries.Core.pdb

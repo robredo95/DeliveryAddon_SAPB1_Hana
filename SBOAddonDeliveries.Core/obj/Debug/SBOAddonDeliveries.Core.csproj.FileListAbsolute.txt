@@ -1,0 +1,5 @@
+C:\Users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries.Core\bin\Debug\SBOAddonDeliveries.Core.dll
+C:\Users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries.Core\bin\Debug\SBOAddonDeliveries.Core.pdb
+C:\Users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries.Core\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries.Core\obj\Debug\SBOAddonDeliveries.Core.dll
+C:\Users\jorge.robredo\documents\visual studio 2015\Projects\SBOAddonDeliveries\SBOAddonDeliveries.Core\obj\Debug\SBOAddonDeliveries.Core.pdb
